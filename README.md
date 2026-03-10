@@ -60,6 +60,7 @@ Tools:
 - Pivot Tables
 - Pivot Charts
 - Slicers and Interactive Filters
+
 Skills:
 - Data Exploration and Cleaning
 - KPI Development
